@@ -8,7 +8,7 @@ They use sliding windows to get features and train upon them.Haar Cascades are c
 Local Binary Pattern (LBP) is a simple yet very efficient texture operator which labels the pixels of an image by thresholding the neighborhood of each pixel and considers the result as a binary number. Due to its discriminative power and computational simplicity, LBP texture operator has become a popular approach in various applications.
 
 ## Cascade Training
-### Opencv Provides a simple traincascades modules that is used in our training of Haar and LBP Cascades.
+### Opencv Provides a simple traincascade modules that is used in our training of Haar and LBP Cascades.
 
 ```
   opencv_traincascade 
