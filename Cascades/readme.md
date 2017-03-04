@@ -10,7 +10,7 @@ Local Binary Pattern (LBP) is a simple yet very efficient texture operator which
 ## Cascade Training
 ### Opencv Provides a simple traincascades modules that is used in our training of Haar and LBP Cascades.
 
-'''
+'''''''''''''''
   opencv_traincascade 
   -data <cascade_dir_name> 
   -vec <vec_file_name> 
@@ -27,4 +27,4 @@ Local Binary Pattern (LBP) is a simple yet very efficient texture operator which
   -maxFalseAlarmRate <max_false_alarm_rate > 
   -maxDepth <max_depth_of_weak_tree >
  
-'''
+'''''''''''''''
