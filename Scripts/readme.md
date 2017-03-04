@@ -13,6 +13,7 @@ It is implemented on Opencv-3.1 Multitracker module. It implements the idea of D
 
 #### Results -
 
-[https://github.com/arujit/Kepi-Computer-Vision/blob/master/img2.png]
+[img2](https://cloud.githubusercontent.com/assets/16621282/23577791/73010068-00ee-11e7-9777-553b6f6df18a.png)
+
 
 
